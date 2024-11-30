@@ -57,7 +57,7 @@ We also implemented **hyperparameter tuning** to optimize each model’s perform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+   git clone https://github.com/yourusername/human-ai-text-classification.git
    cd yourprojectname
    ```
 
